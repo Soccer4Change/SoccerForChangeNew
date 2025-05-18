@@ -21,6 +21,12 @@ export default function About() {
           bio: "Adel is a high schooler with a passion for fitness, with over 3 years of teaching experience with Bellevue Ski School. He has extensive experience working with kids and understands how to create an environment where their skills can flourish.",
           image: "adel.png", // Replace with actual image path or URL
         },
+        {
+          name: "Harshith Gande",
+          position: "Software Lead",
+          bio: "Harshith is a high schooler with a passion for software development and web design, with over 2 years of experience with nuemerous projects. He has a strong passion for sports and technology, seeking ways to use both fields to create change in the world.",
+          image: "harshith.jpg", // Replace with actual image path or URL
+        },
       ],
     });
 
