@@ -21,6 +21,12 @@ export default function About() {
           bio: "Adel is a high schooler with a passion for fitness, with over 3 years of teaching experience with Bellevue Ski School. He has extensive experience working with kids and understands how to create an environment where their skills can flourish.",
           image: "adel.png", // Replace with actual image path or URL
         },
+         {
+          name: "Matthew Bronowski",
+          position: "Coach",
+          bio: "Matthew has 6 years of competitive soccer experience, including 3 years at the premier level and 3 at the select level. He focuses on creating a positive environment on the field while developing skills and growing as player.",
+          image: "matthew.png", // Replace with actual image path or URL
+        },
         {
           name: "Harshith Gande",
           position: "Software Lead",
