@@ -24,7 +24,7 @@ export default function About() {
          {
           name: "Matthew Bronowski",
           position: "Coach",
-          bio: "Matthew has 6 years of competitive soccer experience, including 3 years at the premier level and 3 at the select level. He focuses on creating a positive environment on the field while developing skills and growing as player.",
+          bio: "Matthew has 6 years of competitive soccer experience, including 3 years at the premier level and 3 at the select level. He focuses on creating a positive environment on the field while developing his skills and growing as player.",
           image: "matthew.png", // Replace with actual image path or URL
         },
         {
